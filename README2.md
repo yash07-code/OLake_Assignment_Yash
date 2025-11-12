@@ -1,12 +1,12 @@
-# 🌩️ OLake Infrastructure Deployment using Terraform on Microsoft Azure
+#  OLake Infrastructure Deployment using Terraform on Microsoft Azure
 
-## 📘 Overview
+## Overview
 This project demonstrates **Infrastructure as Code (IaC)** using **Terraform** to provision and manage cloud infrastructure on **Microsoft Azure**.  
 It automates the creation of essential Azure resources like **Resource Groups**, **Storage Accounts**, **Virtual Networks**, and **Virtual Machines**, ensuring consistent, repeatable deployments.
 
 ---
 
-## 🧠 Objective
+## Objective
 The goal of this assignment is to:
 - Automate infrastructure provisioning using **Terraform**.
 - Implement **modular, reusable, and scalable** Terraform configurations.
@@ -15,7 +15,7 @@ The goal of this assignment is to:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - **Terraform v1.9+**
 - **Microsoft Azure Cloud**
 - **Azure CLI**
@@ -24,7 +24,7 @@ The goal of this assignment is to:
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 OLake_Assignment_Yash/
 │
